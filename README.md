@@ -61,7 +61,8 @@ Center Backs (CBs) emerged as the most recruited position, constituting 16.50% o
 A notable relationship emerges between Spanish and English clubs, with 116 incoming transfers from Spain and 108 outgoing transfers to Spanish clubs during the specified period, underscoring a shared emphasis on control in gameplay. Spanish leagues notably contributed 14 Central Midfielders (CMs) to the Premier League, reflecting Spain’s penchant for dictating the pace of games. Additionally, Italian leagues provided 12 Defensive Midfielders, the Italian league is known for producing very good deep lying play marker known as “Registas” renowned for their ability to orchestrate play from deep positions. This trend further corroborates clubs’ pursuit of game control and tactical dominance, evidenced by strategic acquisitions from leagues renowned for their mastery of possession and midfield prowess.
 
 
-![Screenshot3](https://github.com/user-attachments/assets/a1078e72-f575-4a7e-9ae9-aa6cfa9d87e8)
+![screebshot6](https://github.com/user-attachments/assets/a4d6655a-9303-4164-a350-ddd161c26339)
+
 
 ## Deciphering the Relationship Between Transfer Spending and Trophy Success
 
@@ -69,9 +70,10 @@ While analyzing the correlation between transfer expenditures and trophy achieve
 
 
 
-![Screenshot2](https://github.com/user-attachments/assets/5b49a202-1142-4226-ac32-7e984556c8d4)
+![Screenshot 7](https://github.com/user-attachments/assets/5dc2704c-1c79-4b05-8469-d6291390d55c)
 
 # Recommendations
+
 1.**Strategic Spending**: Clubs should prioritize strategic recruitment over sheer financial investment. This involves identifying players who align with the team’s style of play, addressing specific positional needs, and fostering team cohesion.
 
 2.**Diversification in Recruitment**: English players are prominent in transfer activity, clubs should explore opportunities to diversify their recruitment strategies by tapping into talent pools from various countries and leagues. This can enrich squad dynamics and bring different playing styles to the team.
